@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is a to do list web application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharth-bhatnagar/todolist.git"
+  },
+  "author": "Siddharth Bhatnagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharth-bhatnagar/todolist/issues"
+  },
+  "homepage": "https://github.com/siddharth-bhatnagar/todolist#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
